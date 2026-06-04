@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#FAF9F6"/>
+  <rect x="140" y="100" width="120" height="70" rx="6" fill="none" stroke="#8B7355" stroke-width="2"/>
+  <line x1="155" y1="150" x2="175" y2="120" stroke="#8B7355" stroke-width="1.5"/>
+  <line x1="175" y1="120" x2="195" y2="135" stroke="#8B7355" stroke-width="1.5"/>
+  <line x1="195" y1="135" x2="215" y2="115" stroke="#8B7355" stroke-width="1.5"/>
+  <line x1="215" y1="115" x2="245" y2="130" stroke="#8B7355" stroke-width="1.5"/>
+  <text x="200" y="200" text-anchor="middle" font-family="system-ui" font-size="14" fill="#6B7280">Analytics Dashboard</text>
+</svg>

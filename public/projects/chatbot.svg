@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#FAF9F6"/>
+  <rect x="160" y="100" width="80" height="60" rx="8" fill="none" stroke="#8B7355" stroke-width="2"/>
+  <circle cx="180" cy="125" r="4" fill="#8B7355"/>
+  <circle cx="200" cy="125" r="4" fill="#8B7355"/>
+  <circle cx="220" cy="125" r="4" fill="#8B7355"/>
+  <path d="M185 140 L200 155 L215 140" fill="none" stroke="#8B7355" stroke-width="1.5"/>
+  <text x="200" y="200" text-anchor="middle" font-family="system-ui" font-size="14" fill="#6B7280">AI Chatbot</text>
+</svg>
