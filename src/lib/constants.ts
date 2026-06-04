@@ -172,7 +172,7 @@ export const PROJECTS: Project[] = [
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
     category: "Web",
     githubUrl: "https://github.com/sirivennela/portfolio",
-    liveUrl: "https://sirivennela.dev",
+    liveUrl: "https://sirivennelakammariportfolio.netlify.app",
     featured: false,
   },
 ];

@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://sirivennela.dev"),
+  metadataBase: new URL("https://sirivennelakammariportfolio.netlify.app"),
   title: {
     default: "Siri Vennela Kammari — AI Engineer",
     template: "%s | Siri Vennela Kammari",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://sirivennela.dev",
+    url: "https://sirivennelakammariportfolio.netlify.app",
     siteName: "Siri Vennela Kammari",
     title: "Siri Vennela Kammari — AI Engineer",
     description:

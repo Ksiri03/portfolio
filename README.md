@@ -2,7 +2,7 @@
 
 A premium, production-ready personal portfolio website built with Next.js 16, TypeScript, Tailwind CSS v4, and Framer Motion. Features a minimalist luxury aesthetic with dark/light mode, smooth animations, command palette, and full accessibility compliance.
 
-**Live:** [sirivennela.dev](https://sirivennela.dev)
+**Live:** [sirivennelakammariportfolio.netlify.app](https://sirivennelakammariportfolio.netlify.app)
 **GitHub:** [github.com/Ksiri03/portfolio](https://github.com/Ksiri03/portfolio)
 
 ---
@@ -726,7 +726,7 @@ npm run start
 ```typescript
 // layout.tsx
 {
-  metadataBase: new URL("https://sirivennela.dev"),
+  metadataBase: new URL("https://sirivennelakammariportfolio.netlify.app"),
   title: { default: "Siri Vennela Kammari — AI Engineer", template: "%s | ..." },
   description: "Portfolio of Siri Vennela Kammari...",
   keywords: ["AI Engineer", "Machine Learning", "Portfolio", ...],
@@ -769,7 +769,7 @@ This project is personal portfolio code. Feel free to use it as inspiration for 
 ## Author
 
 **Siri Vennela Kammari**
-- 🌐 [sirivennela.dev](https://sirivennela.dev)
+- 🌐 [sirivennelakammariportfolio.netlify.app](https://sirivennelakammariportfolio.netlify.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/siri-vennela-9375a42b8/)
 - 🐙 [GitHub](https://github.com/Ksiri03)
 - 📧 [sirivennela.635@gmail.com](mailto:sirivennela.635@gmail.com)
